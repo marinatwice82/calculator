@@ -1,4 +1,4 @@
-# Task 2. Calculator от [RSS School](https://rs.school/)
+# Task 1. Calculator от [RSS School](https://rs.school/)
 
 <img src="./img/calculator.jpg">
 
